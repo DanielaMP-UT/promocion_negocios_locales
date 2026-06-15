@@ -13,3 +13,6 @@ Este proyecto consiste en una página web para promocionar negocios locales de l
 ## Uso
 
 La plataforma permite consultar negocios organizados por categorías y visualizar la información detallada de cada negocio.
+
+## Autor
+Ana Daniela Marroquín Pérez.
